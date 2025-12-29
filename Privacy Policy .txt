@@ -1,0 +1,24 @@
+Privacy Policy – Ticket Booker
+
+Effective Date: December 29, 2025
+
+Ticket Booker ("we", "our", or "us") uses Facebook Login to authenticate users.
+
+Information We Collect:
+When you log in using Facebook, we may collect basic profile information including your name, email address, and profile picture.
+
+How We Use Information:
+The information collected is used only to authenticate users and provide access to the app. We do not sell, rent, or share user data with third parties.
+
+Data Storage and Security:
+We take reasonable measures to protect user data from unauthorized access or misuse.
+
+Data Retention:
+User data is retained only as long as necessary to operate the app or until a deletion request is made.
+
+User Rights:
+Users may request access to or deletion of their personal data at any time.
+
+Contact:
+If you have questions about this Privacy Policy or your data, contact us at:
+mrticketbooker@gmail.com
