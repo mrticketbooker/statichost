@@ -4,6 +4,7 @@
     "subtitle": "The Revenge",
     "description": "In a city ruled by shadows, one man returns to claim what was stolen. Witness the explosive conclusion to the saga that redefined justice.",
     "posterImage": "https://newsarenaindia.com/_next/image?url=https%3A%2F%2Fimages.newsarenaindia.com%2F%2Fdhurandhar-the-revengejpg_1770109184530.jpg&w=1920&q=75",
+    "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0",
     "tags": [
       { "text": "Now Showing", "bg": "bg-red-600", "border": "border-transparent" },
       { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" },
@@ -11,53 +12,24 @@
     ]
   },
   "dates": [
-    { "day": "Today, Oct 24", "active": true, "id": "date-btn-1" },
-    { "day": "Sat, Oct 25", "active": false, "id": null },
-    { "day": "Sun, Oct 26", "active": false, "id": null }
+    { "day": "Wed, Mar 19", "active": true, "id": "date-btn-1", "isoDate": "2026-03-19" }
   ],
   "screens": [
     {
       "id": "screen-1",
-      "type": "Dolby Atmos",
-      "badgeColor": "indigo",
-      "movieTitle": "Dhurandhar",
-      "movieLang": "Hindi (U/A)",
-      "isHighlight": false,
-      "slots": [
-        { "time": "09:30 PM", "status": "Available", "statusColor": "text-green-400", "link": "#" },
-        { "time": "05:30 PM", "status": "Selling Fast", "statusColor": "text-amber-400", "link": "#" }
-      ]
-    },
-    {
-      "id": "screen-2",
-      "type": "Premiere",
+      "location": "CURCUIT - Cinema 3",
       "badgeColor": "blue",
-      "badgeId": "badge-premiere",
-      "movieTitle": "Dhurandhar",
-      "movieLang": "Hindi (U/A)",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
         { 
-          "time": "20:00 PM", 
-          "status": "Night Show", 
-          "statusColor": "text-blue-300", 
-          "link": "#", 
-          "isPremium": true,
-          "slotId": "highlight-slot",
-          "btnId": "btn-premiere"
+          "time": "09:30 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "#",
+          "isPremium": true
         }
-      ]
-    },
-    {
-      "id": "screen-3",
-      "type": "Standard",
-      "badgeColor": "slate",
-      "movieTitle": "Dhurandhar",
-      "movieLang": "Hindi (U/A)",
-      "isHighlight": false,
-      "slots": [
-        { "time": "15:45 PM", "status": "Almost Full", "statusColor": "text-red-400", "link": "#" },
-        { "time": "18:30 PM", "status": "Sold Out", "statusColor": "text-red-500", "disabled": true }
       ]
     }
   ]
