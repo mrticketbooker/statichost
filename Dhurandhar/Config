@@ -1,14 +1,15 @@
 {
   "meta": {
     "title": "Dhurandhar",
-    "subtitle": "The Revenge",
+    "subtitle": "The Revenge ",
     "description": "In a city ruled by shadows, one man returns to claim what was stolen. Witness the explosive conclusion to the saga that redefined justice.",
     "posterImage": "https://newsarenaindia.com/_next/image?url=https%3A%2F%2Fimages.newsarenaindia.com%2F%2Fdhurandhar-the-revengejpg_1770109184530.jpg&w=1920&q=75",
     "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0",
+    "runtimeMinutes": 214,
     "tags": [
       { "text": "Now Showing", "bg": "bg-red-600", "border": "border-transparent" },
       { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" },
-      { "text": "2h 45m", "bg": "bg-white/10", "border": "border-white/10" }
+      { "text": "3h 34m", "bg": "bg-white/10", "border": "border-white/10" }
     ]
   },
   "dates": [
@@ -27,8 +28,7 @@
           "time": "09:30 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
-          "link": "#",
-          "isPremium": true
+          "link": "#"
         }
       ]
     }
