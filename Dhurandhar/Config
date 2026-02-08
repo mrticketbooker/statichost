@@ -41,7 +41,7 @@
           "time": "09:30 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
-          "link": "#"
+          "link": "https://api.whatsapp.com/send?phone=639063740082"
         }
       ]
     }
