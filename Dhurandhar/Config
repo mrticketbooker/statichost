@@ -26,7 +26,7 @@
     }
   },
   "dates": [
-    { "day": "Fri, Mar 20", "active": true, "id": "date-btn-1", "isoDate": "2026-03-21" }
+    { "day": "Fri, Mar 20", "active": true, "id": "date-btn-1", "isoDate": "2026-03-20" }
   ],
   "screens": [
     {
