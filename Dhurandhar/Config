@@ -3,21 +3,26 @@
     "title": "Dhurandhar",
     "subtitle": "The Revenge",
     "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi",
-    "posterImage": "https://newsarenaindia.com/_next/image?url=https%3A%2F%2Fimages.newsarenaindia.com%2F%2Fdhurandhar-the-revengejpg_1770109184530.jpg&w=1920&q=75",
+    "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-tumbnail.webp",
+    "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-poster.webp",
     "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0",
     "runtimeMinutes": 214,
     "tags": [
-      { "text": "Now Showing", "bg": "bg-red-600", "border": "border-transparent" },
+      { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
       { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
-    ]
+    ],
+    "credits": {
+      "director": "Aditya Dhar",
+      "cast": ["Ranveer Singh", "Sanjay Dutt", "R. Madhavan", "Arjun Rampal", "Akshaye Khanna"]
+    }
   },
   "dates": [
-    { "day": "Wed, Mar 19", "active": true, "id": "date-btn-1", "isoDate": "2026-03-19" }
+    { "day": "Sat, Mar 21", "active": true, "id": "date-btn-1", "isoDate": "2026-03-21" }
   ],
   "screens": [
     {
       "id": "screen-1",
-      "location": "CURCUIT - Cinema 3",
+      "location": "CURCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
@@ -27,7 +32,7 @@
           "time": "09:30 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
-          "link": "https://api.whatsapp.com/send?phone=639063740082"
+          "link": "#"
         }
       ]
     }
