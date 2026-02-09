@@ -26,11 +26,32 @@
     }
   },
   "dates": [
-    { "day": "Fri, Mar 20", "active": true, "id": "date-btn-1", "isoDate": "2026-03-20" }
+    { "day": "Wed, Mar 19", "active": true, "isoDate": "2026-03-19" },
+    { "day": "Fri, Mar 20", "active": false, "isoDate": "2026-03-20" },
+    { "day": "Sat, Mar 21", "active": false, "isoDate": "2026-03-21" },
+    { "day": "Sun, Mar 22", "active": false, "isoDate": "2026-03-22" }
   ],
   "screens": [
     {
-      "id": "screen-1",
+      "id": "screen-mar19",
+      "validDates": ["2026-03-19"],
+      "location": "CURCUIT Cinema 4",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": false,
+      "slots": [
+        { 
+          "time": "06:00 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://api.whatsapp.com/send?phone=639063740082"
+        }
+      ]
+    },
+    {
+      "id": "screen-mar20-21",
+      "validDates": ["2026-03-20", "2026-03-21"],
       "location": "CURCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
@@ -39,6 +60,23 @@
       "slots": [
         { 
           "time": "10:00 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://api.whatsapp.com/send?phone=639063740082"
+        }
+      ]
+    },
+    {
+      "id": "screen-mar22",
+      "validDates": ["2026-03-22"],
+      "location": "Robinsons Galleria Ortigas Cinema 6",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": false,
+      "slots": [
+        { 
+          "time": "08:00 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
           "link": "https://api.whatsapp.com/send?phone=639063740082"
