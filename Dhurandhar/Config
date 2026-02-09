@@ -93,7 +93,7 @@
       "isHighlight": true,
       "slots": [
         { 
-          "time": "08:00 PM", 
+          "time": "09:30 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
           "link": "https://api.whatsapp.com/send?phone=639063740082"
