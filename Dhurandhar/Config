@@ -26,7 +26,7 @@
     }
   },
   "dates": [
-    { "day": "Wed, Mar 19", "active": true, "isoDate": "2026-03-19" },
+    { "day": "Thur, Mar 19", "active": true, "isoDate": "2026-03-19" },
     { "day": "Fri, Mar 20", "active": false, "isoDate": "2026-03-20" },
     { "day": "Sat, Mar 21", "active": false, "isoDate": "2026-03-21" },
     { "day": "Sun, Mar 22", "active": false, "isoDate": "2026-03-22" }
