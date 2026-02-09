@@ -39,7 +39,7 @@
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
-      "isHighlight": false,
+      "isHighlight": true,
       "slots": [
         { 
           "time": "06:00 PM", 
@@ -50,8 +50,25 @@
       ]
     },
     {
-      "id": "screen-mar20-21",
-      "validDates": ["2026-03-20", "2026-03-21"],
+      "id": "screen-mar20",
+      "validDates": ["2026-03-20"],
+      "location": "CURCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        { 
+          "time": "10:00 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://api.whatsapp.com/send?phone=639063740082"
+        }
+      ]
+    },
+    {
+      "id": "screen-mar21",
+      "validDates": ["2026-03-21"],
       "location": "CURCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
@@ -73,7 +90,7 @@
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
-      "isHighlight": false,
+      "isHighlight": true,
       "slots": [
         { 
           "time": "08:00 PM", 
