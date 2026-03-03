@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Dhurandhar   2",
+    "subtitle": "The   Revenge",
+    "description": "Yeh Naya Hindustan hai Yeh ghar mein ghusega bhi Aur maarega bhi",
+    "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-tumbnail.webp",
+    "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-poster.webp",
+    "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0",
+    "runtimeMinutes": 214,
+    "tags": [
+      { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
+      { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
+    ],
+    "credits": {
+      "director": {
+        "name": "Aditya Dhar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Aditya_Dhar_at_IFFI_2019_%28cropped%29.jpg"
+      },
+      "cast": [
+        { "name": "Ranveer Singh", "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ranveer_Singh_in_2023_%281%29_%28cropped%29.jpg" },
+        { "name": "Sanjay Dutt", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sanjay_Dutt_at_Mumbai_Airport%2C_2018_%28cropped%29.jpg/250px-Sanjay_Dutt_at_Mumbai_Airport%2C_2018_%28cropped%29.jpg" },
+        { "name": "R. Madhavan", "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Madhavan_Saala_Khadoos_2_%28cropped%29.jpg" },
+        { "name": "Arjun Rampal", "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Arjun_Rampal_is_the_new_Gillette_brand_ambassador.jpg" },
+        { "name": "Akshaye Khanna", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Akshaye_Khanna_at_the_launch_of_GUJCON_CRF_and_PRF.jpg/250px-Akshaye_Khanna_at_the_launch_of_GUJCON_CRF_and_PRF.jpg" }
+      ]
+    }
+  },
+  "community": [
+    {
+      "name": "Hindi Movies in PH",
+      "subtext": "Join Community",
+      "link": "https://chat.whatsapp.com/Lv66kdXrY8SFBIIHttCtVM?mode=gi_t",
+      "image": "https://github.com/mrticketbooker/statichost/blob/main/Dhurandhar/Hindi%20Movies%20in%20PH.jpg?raw=true"
+    },
+    {
+      "name": "Chandra Films: PH",
+      "subtext": "Join Community",
+      "link": "https://chat.whatsapp.com/KkUIRtKxMlO2BqHTXCMI32?mode=gi_t",
+      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/CHANDRA%20FILMS%20PHILIPPINES.jpg"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "Instagram",
+      "link": "https://www.instagram.com/chandrafilms_philippines/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
+    },
+    {
+      "platform": "Facebook",
+      "link": "https://www.facebook.com/p/Chandra-Films-Philippines-61583952903177/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg"
+    }
+  ],
+  "dates": [
+    { "day": "Fri, Mar 20", "active": true, "isoDate": "2026-03-20" },
+    { "day": "Sat, Mar 21", "active": false, "isoDate": "2026-03-21" },
+    { "day": "Sun, Mar 22", "active": false, "isoDate": "2026-03-22" }
+  ],
+  "screens": [
+    {
+      "id": "screen-mar20",
+      "validDates": ["2026-03-20"],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        { 
+          "time": "09:30 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://dhurandhar-mar20-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-mar21",
+      "validDates": ["2026-03-21"],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        { 
+          "time": "09:30 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://dhurandhar-mar21-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-mar22",
+      "validDates": ["2026-03-22"],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        { 
+          "time": "09:30 PM", 
+          "status": "Available", 
+          "statusColor": "text-green-400", 
+          "link": "https://dhurandhar-mar22-philippines.netlify.app"
+        }
+      ]
+    }
+  ]
+}
