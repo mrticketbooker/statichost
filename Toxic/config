@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Toxic",
-    "subtitle": "A Fairy Tale for Grown-Ups",
-    "description": "Set against the backdrop of a powerful drug cartel in Goa, a man named Raya navigates a dangerous world of crime and betrayal in this high-octane action thriller.",
+    "title": "",
+    "subtitle": "Toxic",
+    "description": "A Fairy Tale for Grown-Ups",
     "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "trailer": "https://www.youtube.com/watch?v=0PfErHA3zzQ",
@@ -60,7 +60,7 @@
       "validDates": ["2026-03-28"],
       "location": "CIRCUIT Cinema 3",
       "badgeColor": "blue",
-      "movieTitle": "Toxic: A Fairy Tale for Grown-Ups",
+      "movieTitle": "Toxic",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
