@@ -1,22 +1,28 @@
 {
   "meta": {
     "title": "Toxic",
-    "subtitle": "",
-    "description": "A Fairy Tale for Grown-Ups",
+    "subtitle": "A Fairy Tale for Grown-Ups",
+    "description": "Set against the backdrop of a powerful drug cartel in Goa, a man named Raya navigates a dangerous world of crime and betrayal in this high-octane action thriller.",
     "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
-    "trailer": "",
-    "runtimeMinutes": 0,
+    "trailer": "https://www.youtube.com/watch?v=0PfErHA3zzQ",
+    "runtimeMinutes": 180,
     "tags": [
       { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
-      { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
+      { "text": "Action / Crime / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
     ],
     "credits": {
       "director": {
-        "name": "",
-        "image": ""
+        "name": "Geetu Mohandas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Geetu_Mohandas.jpg/440px-Geetu_Mohandas.jpg"
       },
-      "cast": []
+      "cast": [
+        { "name": "Yash", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yash_at_KGF_Chapter_2_trailer_launch.jpg/440px-Yash_at_KGF_Chapter_2_trailer_launch.jpg" },
+        { "name": "Nayanthara", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nayanthara_at_SIIMA_2016.jpg/440px-Nayanthara_at_SIIMA_2016.jpg" },
+        { "name": "Kiara Advani", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kiara_Advani_at_screening.jpg/440px-Kiara_Advani_at_screening.jpg" },
+        { "name": "Huma Qureshi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Huma_Qureshi_promoting_Bell_Bottom.jpg/440px-Huma_Qureshi_promoting_Bell_Bottom.jpg" },
+        { "name": "Akshay Oberoi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Akshay_Oberoi_at_awards.jpg/440px-Akshay_Oberoi_at_awards.jpg" }
+      ]
     }
   },
   "community": [
@@ -54,8 +60,8 @@
       "validDates": ["2026-03-28"],
       "location": "CIRCUIT Cinema 3",
       "badgeColor": "blue",
-      "movieTitle": "Toxic",
-      "movieLang": "Hindi",
+      "movieTitle": "Toxic: A Fairy Tale for Grown-Ups",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
         { 
