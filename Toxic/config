@@ -5,7 +5,7 @@
     "description": "A Fairy Tale for Grown-Ups",
     "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
-    "trailer": "https://www.youtube.com/watch?v=0PfErHA3zzQ",
+    "trailer": "https://youtu.be/cXymbHU5i-U?si=FOHCi5GTymZccPPE",
     "runtimeMinutes": 180,
     "tags": [
       { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
@@ -14,14 +14,14 @@
     "credits": {
       "director": {
         "name": "Geetu Mohandas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Geetu_Mohandas.jpg/440px-Geetu_Mohandas.jpg"
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFjOTg4YjUtNDE5Mi00NGEyLTkzNDAtYTE2YmNkZTNhNmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
       },
       "cast": [
-        { "name": "Yash", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yash_at_KGF_Chapter_2_trailer_launch.jpg/440px-Yash_at_KGF_Chapter_2_trailer_launch.jpg" },
-        { "name": "Nayanthara", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nayanthara_at_SIIMA_2016.jpg/440px-Nayanthara_at_SIIMA_2016.jpg" },
-        { "name": "Kiara Advani", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kiara_Advani_at_screening.jpg/440px-Kiara_Advani_at_screening.jpg" },
-        { "name": "Huma Qureshi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Huma_Qureshi_promoting_Bell_Bottom.jpg/440px-Huma_Qureshi_promoting_Bell_Bottom.jpg" },
-        { "name": "Akshay Oberoi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Akshay_Oberoi_at_awards.jpg/440px-Akshay_Oberoi_at_awards.jpg" }
+        { "name": "Yash", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Yash%2C_Vishal%2C_Srinidhi_Shetty_at_the_%E2%80%98KGF%E2%80%99_Press_Meet_In_Chennai_%28cropped%29.jpg" },
+        { "name": "Nayanthara", "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nayanthara_in_2023_%28cropped%29.jpg" },
+        { "name": "Kiara Advani", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg/960px-Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg" },
+        { "name": "Huma Qureshi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Huma_Qureshi_at_TIFF_2025_02.jpg/960px-Huma_Qureshi_at_TIFF_2025_02.jpg" },
+        { "name": "Akshay Oberoi", "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Akshay_Oberoi_at_book_launch1.jpg" }
       ]
     }
   },
