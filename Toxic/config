@@ -67,7 +67,7 @@
         { 
           "time": "TBA", 
           "status": "TBA", 
-          "statusColor": "text-gray-400", 
+          "statusColor": "text-green-400", 
           "link": "https://toxic-premiere-philippines.netlify.app/"
         }
       ]
