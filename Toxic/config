@@ -52,13 +52,13 @@
     }
   ],
   "dates": [
-    { "day": "TBA", "active": true, }
+    { "day": "Sat, Jun 6", "active": true, "isoDate": "2026-06-06" }
   ],
   "screens": [
     {
-      "id": "TBA",
-      "validDates": ["TBA"],
-      "location": "CIRCUIT Cinema 3",
+      "id": "screen-jun6",
+      "validDates": ["2026-06-06"],
+      "location": "TBA",
       "badgeColor": "blue",
       "movieTitle": "Toxic",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
@@ -66,9 +66,9 @@
       "slots": [
         { 
           "time": "TBA", 
-          "status": "Available", 
-          "statusColor": "text-green-400", 
-          "link": "https://toxic-mar28-philippines.netlify.app"
+          "status": "TBA", 
+          "statusColor": "text-gray-400", 
+          "link": "https://toxic-premiere-philippines.netlify.app/"
         }
       ]
     }
