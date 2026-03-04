@@ -52,12 +52,12 @@
     }
   ],
   "dates": [
-    { "day": "Sat, Mar 28", "active": true, "isoDate": "2026-03-28" }
+    { "day": "TBA", "active": true, }
   ],
   "screens": [
     {
-      "id": "screen-mar28",
-      "validDates": ["2026-03-28"],
+      "id": "TBA",
+      "validDates": ["TBA"],
       "location": "CIRCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Toxic",
@@ -65,7 +65,7 @@
       "isHighlight": true,
       "slots": [
         { 
-          "time": "09:30 PM", 
+          "time": "TBA", 
           "status": "Available", 
           "statusColor": "text-green-400", 
           "link": "https://toxic-mar28-philippines.netlify.app"
