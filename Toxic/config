@@ -52,7 +52,7 @@
     }
   ],
   "dates": [
-    { "day": "Sat, Jun 6", "active": true, "isoDate": "2026-06-06" }
+    { "day": "Sat, June 6 2026", "active": true, "isoDate": "2026-06-06" }
   ],
   "screens": [
     {
