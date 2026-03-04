@@ -6,7 +6,7 @@
     "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
     "trailer": "https://youtu.be/cXymbHU5i-U?si=FOHCi5GTymZccPPE",
-    "runtimeMinutes": 180,
+    "runtimeMinutes": 200,
     "tags": [
       { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
       { "text": "Action / Crime / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
