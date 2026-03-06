@@ -52,15 +52,15 @@
     }
   ],
   "dates": [
-    { "day": "Fri, Mar 20", "active": true, "isoDate": "2026-03-20" },
+    { "day": "Thur, Mar 5", "active": true, "isoDate": "2026-03-05" },
     { "day": "Sat, Mar 21", "active": false, "isoDate": "2026-03-21" },
     { "day": "Sun, Mar 22", "active": false, "isoDate": "2026-03-22" },
     { "day": "Sat, Mar 28", "active": false, "isoDate": "2026-03-28" }
   ],
   "screens": [
     {
-      "id": "screen-mar20",
-      "validDates": ["2026-03-20"],
+      "id": "screen-mar05",
+      "validDates": ["2026-03-05"],
       "location": "CIRCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
