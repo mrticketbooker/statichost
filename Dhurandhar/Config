@@ -93,10 +93,10 @@
       ]
     },
     {
-      "id": "screen-mar22",
+      "id": "screen-mar22-shangri-la",
       "validDates": ["2026-03-22"],
-      "location": "CIRCUIT Cinema 3",
-      "badgeColor": "blue",
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "purple",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
@@ -106,7 +106,18 @@
           "status": "Available",
           "statusColor": "text-green-400",
           "link": "https://dhurandhar-mar22-4pm-philippines.netlify.app/"
-        },
+        }
+      ]
+    },
+    {
+      "id": "screen-mar22-circuit",
+      "validDates": ["2026-03-22"],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
         {
           "time": "09:30 PM",
           "status": "Available",
@@ -118,8 +129,8 @@
     {
       "id": "screen-mar28",
       "validDates": ["2026-03-28"],
-      "location": "CIRCUIT Cinema 3",
-      "badgeColor": "blue",
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "purple",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
