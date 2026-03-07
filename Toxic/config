@@ -8,7 +8,7 @@
     "trailer": "https://youtu.be/cXymbHU5i-U?si=FOHCi5GTymZccPPE",
     "runtimeMinutes": 200,
     "tags": [
-      { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
+      { "text": "Coming Soon", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
       { "text": "Action / Crime / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
     ],
     "credits": {
@@ -66,7 +66,7 @@
       "slots": [
         { 
           "time": "Time TBA", 
-          "status": "Comming Soon", 
+          "status": "Coming Soon", 
           "statusColor": "text-green-400", 
           "link": "https://toxic-premiere-philippines.netlify.app/"
         }
