@@ -6,7 +6,7 @@
     "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-tumbnail.webp",
     "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/dhurandhar-the-revenge-poster.webp",
     "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0",
-    "runtimeMinutes": 214,
+    "runtimeMinutes": 235,
     "tags": [
       { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
       { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
@@ -30,7 +30,7 @@
       "name": "Hindi Movies in PH",
       "subtext": "Join Community",
       "link": "https://chat.whatsapp.com/Lv66kdXrY8SFBIIHttCtVM?mode=gi_t",
-      "image": "https://github.com/mrticketbooker/statichost/blob/main/Dhurandhar/Hindi%20Movies%20in%20PH.jpg?raw=true"
+      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/Hindi%20Movies%20in%20PH.jpg"
     },
     {
       "name": "Chandra Films: PH",
