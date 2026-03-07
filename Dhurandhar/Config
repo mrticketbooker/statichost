@@ -135,14 +135,14 @@
       "validDates": [
         "2026-03-22"
       ],
-      "location": "Shangri-La Plaza Cinema 1 (Mandaluyong)",
+      "location": "Shangri-La Plaza Cinema 1, Mandaluyong",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
         {
-          "time": "04:00 PM",
+          "time": "03:30 PM",
           "status": "Available",
           "statusColor": "text-green-400",
           "link": "https://dhurandhar-mar22-4pm-philippines.netlify.app/"
@@ -154,7 +154,7 @@
       "validDates": [
         "2026-03-22"
       ],
-      "location": "CIRCUIT Cinema 3 (Makati)",
+      "location": "CIRCUIT Cinema 3, Makati",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
