@@ -89,6 +89,11 @@
       "day": "Sun, Mar 22",
       "active": false,
       "isoDate": "2026-03-22"
+    },
+    {
+      "day": "Sat, Mar 28",
+      "active": false,
+      "isoDate": "2026-03-28"
     }
   ],
   "screens": [
@@ -167,7 +172,25 @@
           "link": "https://dhurandhar-mar22-10pm-philippines.netlify.app"
         }
       ]
+    },
+    {
+      "id": "screen-mar28-shangri-la",
+      "validDates": [
+        "2026-03-28"
+      ],
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "07:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dhurandhar-mar28-philippines.netlify.app/"
+        }
+      ]
     }
   ]
 }
-
