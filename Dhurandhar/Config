@@ -76,6 +76,11 @@
   ],
   "dates": [
     {
+      "day": "Sun, Mar 15",
+      "active": false,
+      "isoDate": "2026-03-15"
+    },
+    {
       "day": "Fri, Mar 20",
       "active": true,
       "isoDate": "2026-03-20"
@@ -97,6 +102,25 @@
     }
   ],
   "screens": [
+    {
+      "id": "screen-mar15-test",
+      "validDates": [
+        "2026-03-15"
+      ],
+      "location": "Test Cinema - Screen 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge - Test Run",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "12:00 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "#test-link"
+        }
+      ]
+    },
     {
       "id": "screen-mar20",
       "validDates": [
