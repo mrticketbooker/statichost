@@ -110,8 +110,8 @@
       "slots": [
         {
           "time": "09:30 PM",
-          "status": "Closing Soon",
-          "statusColor": "text-yellow-400",
+          "status": "FULL",
+          "statusColor": "text-red-400",
           "link": "https://dhurandhar-mar20-philippines.netlify.app"
         }
       ]
