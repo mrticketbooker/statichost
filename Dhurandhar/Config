@@ -77,7 +77,7 @@
   "dates": [
     {
       "day": "Fri, Mar 20",
-      "active": false,
+      "active": true,
       "isoDate": "2026-03-20"
     },
     {
@@ -87,12 +87,12 @@
     },
     {
       "day": "Sun, Mar 22",
-      "active": false,
+      "active": true,
       "isoDate": "2026-03-22"
     },
     {
       "day": "Sat, Mar 28",
-      "active": false,
+      "active": true,
       "isoDate": "2026-03-28"
     }
   ],
