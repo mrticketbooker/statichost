@@ -77,12 +77,12 @@
   "dates": [
     {
       "day": "Fri, Mar 20",
-      "active": true,
+      "active": false,
       "isoDate": "2026-03-20"
     },
     {
       "day": "Sat, Mar 21",
-      "active": false,
+      "active": true,
       "isoDate": "2026-03-21"
     },
     {
