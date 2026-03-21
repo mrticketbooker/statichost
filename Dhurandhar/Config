@@ -110,7 +110,7 @@
       "slots": [
         {
           "time": "09:30 PM",
-          "status": "FULL",
+          "status": "Full",
           "statusColor": "text-red-400",
           "link": "https://dhurandhar-mar20-philippines.netlify.app"
         }
@@ -129,8 +129,8 @@
       "slots": [
         {
           "time": "09:30 PM",
-          "status": "Closing Soon",
-          "statusColor": "text-yellow-400",
+          "status": "Full",
+          "statusColor": "text-red-400",
           "link": "https://dhurandhar-mar21-philippines.netlify.app"
         }
       ]
@@ -148,8 +148,8 @@
       "slots": [
         {
           "time": "03:30 PM",
-          "status": "Available",
-          "statusColor": "text-green-400",
+          "status": "Closing Soon",
+          "statusColor": "text-yellow-400",
           "link": "https://dhurandhar-mar22-4pm-philippines.netlify.app/"
         }
       ]
