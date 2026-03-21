@@ -94,6 +94,11 @@
       "day": "Sat, Mar 28",
       "active": true,
       "isoDate": "2026-03-28"
+    },
+    {
+      "day": "Sun, Mar 29",
+      "active": true,
+      "isoDate": "2026-03-29"
     }
   ],
   "screens": [
@@ -191,7 +196,25 @@
           "link": "https://dhurandhar-mar28-philippines.netlify.app/"
         }
       ]
+    },
+    {
+      "id": "screen-mar29",
+      "validDates": [
+        "2026-03-29"
+      ],
+      "location": "TBA",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge - Tentative Final Showing",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "TBA",
+          "status": "Coming Soon",
+          "statusColor": "text-yellow-400",
+          "link": "#"
+        }
+      ]
     }
   ]
 }
-
