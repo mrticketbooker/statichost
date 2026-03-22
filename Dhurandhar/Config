@@ -56,9 +56,9 @@
       "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/Hindi%20Movies%20in%20PH.jpg"
     },
     {
-      "name": "Chandra Films: PH",
+      "name": "Chandra Films 2: PH",
       "subtext": "Join Community",
-      "link": "https://chat.whatsapp.com/KkUIRtKxMlO2BqHTXCMI32?mode=gi_t",
+      "link": "https://chat.whatsapp.com/D8vxMAAStX8BM1nspP46kH?mode=gi_t",
       "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/CHANDRA%20FILMS%20PHILIPPINES.jpg"
     }
   ],
@@ -215,25 +215,7 @@
           "link": "https://dhurandhar-mar29-philippines.netlify.app/"
         }
       ]
-    },
-    {
-      "id": "screen-mar29-cebu",
-      "validDates": [
-        "2026-03-29"
-      ],
-      "location": "Robinsons Galleria - Cebu",
-      "badgeColor": "blue",
-      "movieTitle": "Dhurandhar: The Revenge",
-      "movieLang": "Hindi (ENGLISH SUBTITLES)",
-      "isHighlight": true,
-      "slots": [
-        {
-          "time": "06:30 PM",
-          "status": "Inquire Now",
-          "statusColor": "text-yellow-400",
-          "link": "https://api.whatsapp.com/send?phone=919876543898&text=%5BOnline%20bookings%20are%20currently%20unavailable%20outside%20Metro%20Manila.%5D%0AHi%2C%20I%E2%80%99m%20interested%20in%20booking%20tickets%20for%20Dhurandhar%3A%20The%20Revenge%20at%20Robinsons%20Galleria%20Cebu%20for%20the%206%3A30%20PM%20show."
-        }
-      ]
     }
   ]
 }
+
