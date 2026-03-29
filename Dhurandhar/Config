@@ -253,7 +253,7 @@
       "slots": [
         {
           "time": "03:30 PM",
-          "status": "Bookings Open Mar 30, 12:01 AM",
+          "status": "Coming Soon",
           "statusColor": "text-yellow-400",
           "link": "#"
         }
