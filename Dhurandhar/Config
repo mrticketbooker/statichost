@@ -102,8 +102,13 @@
     },
     {
       "day": "Sun, Apr 5",
-      "active": true,
+      "active": false,
       "isoDate": "2026-04-05"
+    },
+    {
+      "day": "Sat, Apr 11",
+      "active": true,
+      "isoDate": "2026-04-11"
     }
   ],
   "screens": [
@@ -247,7 +252,7 @@
       ],
       "location": "Shangri-La Plaza Cinema 1",
       "badgeColor": "blue",
-      "movieTitle": "Dhurandhar: The Revenge - One Last Time (20% OFF)",
+      "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
@@ -256,6 +261,25 @@
           "status": "Available",
           "statusColor": "text-green-400",
           "link": "https://dhurandhar-apr5-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-apr11-shangri-la",
+      "validDates": [
+        "2026-04-11"
+      ],
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dhurandhar: The Revenge - Final Week (20% OFF)",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "07:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dhurandhar-apr11-philippines.netlify.app/"
         }
       ]
     }
