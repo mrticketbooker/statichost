@@ -107,12 +107,12 @@
     },
     {
       "day": "Sat, Apr 11",
-      "active": true,
+      "active": false,
       "isoDate": "2026-04-11"
     },
     {
       "day": "Sun, May 3",
-      "active": false,
+      "active": true,
       "isoDate": "2026-05-03"
     }
   ],
@@ -293,7 +293,7 @@
       "validDates": [
         "2026-05-03"
       ],
-      "location": "Shangri-La Plaza Cinema 1",
+      "location": "Shangri-La Plaza Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Dhurandhar: The Revenge",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
