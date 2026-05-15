@@ -114,6 +114,11 @@
       "day": "Sun, May 3",
       "active": true,
       "isoDate": "2026-05-03"
+    },
+    {
+      "day": "Streaming",
+      "active": false,
+      "isoDate": "netflix"
     }
   ],
   "screens": [
@@ -304,6 +309,25 @@
           "status": "Available",
           "statusColor": "text-green-400",
           "link": "https://dhurandhar-may3-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-netflix",
+      "validDates": [
+        "netflix"
+      ],
+      "location": "Netflix",
+      "badgeColor": "red",
+      "movieTitle": "Dhurandhar: The Revenge",
+      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "Watch Now",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://www.netflix.com/ph-en/title/82813021"
         }
       ]
     }
