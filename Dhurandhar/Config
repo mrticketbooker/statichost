@@ -112,12 +112,12 @@
     },
     {
       "day": "Sun, May 3",
-      "active": true,
+      "active": false,
       "isoDate": "2026-05-03"
     },
     {
       "day": "Streaming",
-      "active": false,
+      "active": true,
       "isoDate": "netflix"
     }
   ],
