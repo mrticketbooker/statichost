@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "title": "Dastaar",
+    "subtitle": "The Crown",
+    "description": "In 2000s Britain, a turbaned Sikh immigrant loses his close ones to a brutal attack but transforms his grief into courage, rising from a humble immigrant to a community leader.",
+    "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dastaar/dastaar-tumbnail.webp",
+    "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dastaar/dastaar-poster.webp",
+    "trailer": "https://www.youtube.com/watch?v=Youtub3L1nk&t",
+    "runtimeMinutes": 148,
+    "tags": [
+      {
+        "text": "Now Showing",
+        "bg": "bg-blue-600 js-theme-bg",
+        "border": "border-transparent"
+      },
+      {
+        "text": "Drama / Action",
+        "bg": "bg-white/10",
+        "border": "border-white/10"
+      }
+    ],
+    "credits": {
+      "director": {
+        "name": "Amar Hundal",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+      },
+      "cast": [
+        {
+          "name": "Tarsem Jassar",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+        },
+        {
+          "name": "Yograj Singh",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+        },
+        {
+          "name": "Geet Goraya",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+        },
+        {
+          "name": "Ashish Duggal",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+        },
+        {
+          "name": "Sarbjit Cheema",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Portrait_Placeholder.png/200px-Portrait_Placeholder.png"
+        }
+      ]
+    }
+  },
+  "community": [
+    {
+      "name": "Punjabi Movies in PH",
+      "subtext": "Join Community",
+      "link": "https://chat.whatsapp.com/Lv66kdXrY8SFBIIHttCtVM?mode=gi_t",
+      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dastaar/Punjabi%20Movies%20in%20PH.jpg"
+    },
+    {
+      "name": "Chandra Films 2: PH",
+      "subtext": "Join Community",
+      "link": "https://chat.whatsapp.com/D8vxMAAStX8BM1nspP46kH?mode=gi_t",
+      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dastaar/CHANDRA%20FILMS%20PHILIPPINES.jpg"
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "Instagram",
+      "link": "https://www.instagram.com/chandrafilms_philippines/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
+    },
+    {
+      "platform": "Facebook",
+      "link": "https://www.facebook.com/p/Chandra-Films-Philippines-61583952903177/",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg"
+    }
+  ],
+  "dates": [
+    {
+      "day": "Fri, Jul 17",
+      "active": false,
+      "isoDate": "2026-07-17"
+    },
+    {
+      "day": "Sat, Jul 18",
+      "active": false,
+      "isoDate": "2026-07-18"
+    },
+    {
+      "day": "Sun, Jul 19",
+      "active": false,
+      "isoDate": "2026-07-19"
+    },
+    {
+      "day": "Sat, Jul 25",
+      "active": false,
+      "isoDate": "2026-07-25"
+    },
+    {
+      "day": "Sun, Jul 26",
+      "active": false,
+      "isoDate": "2026-07-26"
+    },
+    {
+      "day": "Sun, Aug 2",
+      "active": false,
+      "isoDate": "2026-08-02"
+    },
+    {
+      "day": "Sat, Aug 8",
+      "active": false,
+      "isoDate": "2026-08-08"
+    },
+    {
+      "day": "Sun, Aug 30",
+      "active": false,
+      "isoDate": "2026-08-30"
+    },
+    {
+      "day": "Streaming",
+      "active": true,
+      "isoDate": "netflix"
+    }
+  ],
+  "screens": [
+    {
+      "id": "screen-jul17",
+      "validDates": [
+        "2026-07-17"
+      ],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "09:30 PM",
+          "status": "Full",
+          "statusColor": "text-red-400",
+          "link": "https://dastaar-jul17-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul18",
+      "validDates": [
+        "2026-07-18"
+      ],
+      "location": "CIRCUIT Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "09:30 PM",
+          "status": "Full",
+          "statusColor": "text-red-400",
+          "link": "https://dastaar-jul18-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul19-shangri-la",
+      "validDates": [
+        "2026-07-19"
+      ],
+      "location": "Shangri-La Plaza Cinema 1 — Mandaluyong",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "03:30 PM",
+          "status": "Closing Soon",
+          "statusColor": "text-yellow-400",
+          "link": "https://dastaar-jul19-4pm-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul19-circuit",
+      "validDates": [
+        "2026-07-19"
+      ],
+      "location": "CIRCUIT Cinema 3 — Makati",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "09:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-jul19-10pm-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul25-shangri-la",
+      "validDates": [
+        "2026-07-25"
+      ],
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "07:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-jul25-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul26",
+      "validDates": [
+        "2026-07-26"
+      ],
+      "location": "Shangri-La Plaza Cinema 1 — Mandaluyong",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "03:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-jul26-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-jul26-cebu",
+      "validDates": [
+        "2026-07-26"
+      ],
+      "location": "Robinsons Galleria — Cebu",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "06:30 PM",
+          "status": "Inquire Now",
+          "statusColor": "text-yellow-400",
+          "link": "https://api.whatsapp.com/send?phone=919876543898&text=%2A%5BOnline%20bookings%20are%20currently%20unavailable%20outside%20Metro%20Manila.%5D%2A%0A%0AHi%2C%20I%E2%80%99m%20interested%20in%20booking%20tickets%20for%20Dastaar%3A%20The%20Crown%20at%20Robinsons%20Galleria%20Cebu%20for%20the%206%3A30%20PM%20show%20on%20July%2026."
+        }
+      ]
+    },
+    {
+      "id": "screen-aug2",
+      "validDates": [
+        "2026-08-02"
+      ],
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "03:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-aug2-philippines.netlify.app"
+        }
+      ]
+    },
+    {
+      "id": "screen-aug8-shangri-la",
+      "validDates": [
+        "2026-08-08"
+      ],
+      "location": "Shangri-La Plaza Cinema 1",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "07:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-aug8-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-aug30-shangri-la",
+      "validDates": [
+        "2026-08-30"
+      ],
+      "location": "Shangri-La Plaza Cinema 3",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "03:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-aug30-philippines.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-netflix",
+      "validDates": [
+        "netflix"
+      ],
+      "location": "Netflix",
+      "badgeColor": "red",
+      "movieTitle": "Dastaar: The Crown",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "Watch Now",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://www.netflix.com/ph-en/title/82813021"
+        }
+      ]
+    }
+  ]
+}
