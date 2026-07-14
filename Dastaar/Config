@@ -5,11 +5,19 @@
     "description": "1980s Britain: Sikh immigrant Harnek loses loved ones in a racist attack. He channels his grief into strength, rising from newcomer to community leader, showing how one man's turban becomes a symbol of hope for all.",
     "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail.jpg",
     "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
-    "trailer": "https://www.youtube.com/watch?v=V5LAS0FdEhc",
+    "trailer": "",
     "runtimeMinutes": 150,
     "tags": [
-      { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
-      { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
+      {
+        "text": "Now Showing",
+        "bg": "bg-blue-600 js-theme-bg",
+        "border": "border-transparent"
+      },
+      {
+        "text": "Action / Thriller",
+        "bg": "bg-white/10",
+        "border": "border-white/10"
+      }
     ],
     "credits": {
       "director": {
@@ -17,11 +25,26 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HNehckwfqW3197wr_hkbUFHC8C9Kfsv_rkCkRM04IuFJKkfR8zBgFKr_ASp7OvMDy2tPgnbbTtZLJTYbYJhnlBT9NASjV0lhGJibXxg&s=10"
       },
       "cast": [
-        { "name": "Tarsem Jassar", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/hTb2GzAar7eDdDh4TbbbhwfXO2V.jpg" },
-        { "name": "Geet Goraya", "image": "https://yt3.googleusercontent.com/GSsNJhKZpnK7fum8hbjQNBmo-Aso60AHlIsUft_TbaAKgZGIzHU0PlZk3jzFfozTezOI7XwJ=s900-c-k-c0x00ffffff-no-rj" },
-        { "name": "Yograj Singh", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/AqYCK8VDWGDg2d87Qgm8RuwtVXJ.jpg" },
-        { "name": "Sarbjit Cheema", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/57IZxjgZd2OeM1RmTuoilD7v8cM.jpg" },
-        { "name": "Aman Dhaliwal", "image": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1731079491.jpeg" }
+        {
+          "name": "Tarsem Jassar",
+          "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/hTb2GzAar7eDdDh4TbbbhwfXO2V.jpg"
+        },
+        {
+          "name": "Geet Goraya",
+          "image": "https://yt3.googleusercontent.com/GSsNJhKZpnK7fum8hbjQNBmo-Aso60AHlIsUft_TbaAKgZGIzHU0PlZk3jzFfozTezOI7XwJ=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Yograj Singh",
+          "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/AqYCK8VDWGDg2d87Qgm8RuwtVXJ.jpg"
+        },
+        {
+          "name": "Sarbjit Cheema",
+          "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/57IZxjgZd2OeM1RmTuoilD7v8cM.jpg"
+        },
+        {
+          "name": "Aman Dhaliwal",
+          "image": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1731079491.jpeg"
+        }
       ]
     }
   },
@@ -52,23 +75,91 @@
     }
   ],
   "dates": [
-    { "day": "Metro Manila", "active": true, "isoDate": "2026-07-18" }
+    {
+      "day": "Metro Manila",
+      "active": true,
+      "isoDate": "metro-manila"
+    },
+    {
+      "day": "Outside NCR",
+      "active": false,
+      "isoDate": "outside-ncr"
+    }
   ],
   "screens": [
     {
       "id": "screen-jul18",
-      "validDates": ["2026-07-18"],
+      "validDates": [
+        "metro-manila"
+      ],
       "location": "Fisher Mall - Quezon City",
       "badgeColor": "blue",
       "movieTitle": "Dastaar",
       "movieLang": "Punjabi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
-        { 
-          "time": "July 18 - 7:45 PM", 
-          "status": "Available", 
-          "statusColor": "text-green-400", 
-          "link": "https://dastaar-philippines-july18.netlify.app/" 
+        {
+          "time": "July 18 - 7:45 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://dastaar-philippines-july18.netlify.app/"
+        }
+      ]
+    },
+    {
+      "id": "screen-stalucia",
+      "validDates": [
+        "outside-ncr"
+      ],
+      "location": "Sta. Lucia Mall - Marikina City",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 7:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "screen-bacolod",
+      "validDates": [
+        "outside-ncr"
+      ],
+      "location": "Ayala Malls Capitol Central - Bacolod City",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 18 - 7:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": "screen-davao",
+      "validDates": [
+        "outside-ncr"
+      ],
+      "location": "GMALL - BAJADA - Davao City",
+      "badgeColor": "blue",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 18 - 7:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "#"
         }
       ]
     }
