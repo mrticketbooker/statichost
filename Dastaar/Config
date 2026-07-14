@@ -119,8 +119,8 @@
       "slots": [
         {
           "time": "July 17 - 7:30 PM",
-          "status": "Available",
-          "statusColor": "text-green-400",
+          "status": "Inquire",
+          "statusColor": "text-yellow-400",
           "link": "#"
         }
       ]
@@ -138,8 +138,8 @@
       "slots": [
         {
           "time": "July 18 - 7:30 PM",
-          "status": "Available",
-          "statusColor": "text-green-400",
+          "status": "Inquire",
+          "statusColor": "text-yellow-400",
           "link": "#"
         }
       ]
@@ -157,8 +157,8 @@
       "slots": [
         {
           "time": "July 18 - 7:30 PM",
-          "status": "Available",
-          "statusColor": "text-green-400",
+          "status": "Inquire",
+          "statusColor": "text-yellow-400",
           "link": "#"
         }
       ]
