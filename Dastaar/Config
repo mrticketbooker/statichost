@@ -3,25 +3,25 @@
     "title": "",
     "subtitle": "Dastaar",
     "description": "A Fairy Tale for Grown-Ups",
-    "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
-    "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
-    "trailer": "https://youtu.be/cXymbHU5i-U?si=FOHCi5GTymZccPPE",
-    "runtimeMinutes": 200,
+    "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
+    "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
+    "trailer": "https://www.youtube.com/watch?v=V5LAS0FdEhc",
+    "runtimeMinutes": 150,
     "tags": [
-      { "text": "Coming Soon", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
-      { "text": "Action / Crime / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
+      { "text": "Now Showing", "bg": "bg-blue-600 js-theme-bg", "border": "border-transparent" },
+      { "text": "Action / Thriller", "bg": "bg-white/10", "border": "border-white/10" }
     ],
     "credits": {
       "director": {
-        "name": "Geetu Mohandas",
-        "image": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/461949/GeetuMohandas-2019.jpg"
+        "name": "Amar Hundal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HNehckwfqW3197wr_hkbUFHC8C9Kfsv_rkCkRM04IuFJKkfR8zBgFKr_ASp7OvMDy2tPgnbbTtZLJTYbYJhnlBT9NASjV0lhGJibXxg&s=10"
       },
       "cast": [
-        { "name": "Yash", "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Yash%2C_Vishal%2C_Srinidhi_Shetty_at_the_%E2%80%98KGF%E2%80%99_Press_Meet_In_Chennai_%28cropped%29.jpg" },
-        { "name": "Nayanthara", "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Nayanthara_in_2023_%28cropped%29.jpg" },
-        { "name": "Kiara Advani", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg/960px-Kiara_Advani_snapped_at_the_screening_of_Shershaah_%28cropped%29.jpg" },
-        { "name": "Huma Qureshi", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Huma_Qureshi_at_TIFF_2025_02.jpg/960px-Huma_Qureshi_at_TIFF_2025_02.jpg" },
-        { "name": "Akshay Oberoi", "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Akshay_Oberoi_at_book_launch1.jpg" }
+        { "name": "Tarsem Jassar", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/hTb2GzAar7eDdDh4TbbbhwfXO2V.jpg" },
+        { "name": "Geet Goraya", "image": "https://yt3.googleusercontent.com/GSsNJhKZpnK7fum8hbjQNBmo-Aso60AHlIsUft_TbaAKgZGIzHU0PlZk3jzFfozTezOI7XwJ=s900-c-k-c0x00ffffff-no-rj" },
+        { "name": "Yograj Singh", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/AqYCK8VDWGDg2d87Qgm8RuwtVXJ.jpg" },
+        { "name": "Sarbjit Cheema", "image": "https://media.themoviedb.org/t/p/w276_and_h350_face/57IZxjgZd2OeM1RmTuoilD7v8cM.jpg" },
+        { "name": "Aman Dhaliwal", "image": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1731079491.jpeg" }
       ]
     }
   },
