@@ -2,7 +2,7 @@
   "meta": {
     "title": "",
     "subtitle": "Dastaar",
-    "description": "A Fairy Tale for Grown-Ups",
+    "description": "1980s Britain: Sikh immigrant Harnek loses loved ones in a racist attack. He channels his grief into strength, rising from newcomer to community leader, showing how one man's turban becomes a symbol of hope for all.",
     "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
     "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
     "trailer": "https://www.youtube.com/watch?v=V5LAS0FdEhc",
@@ -30,13 +30,13 @@
       "name": "Hindi Movies in PH",
       "subtext": "Join Community",
       "link": "https://chat.whatsapp.com/Lv66kdXrY8SFBIIHttCtVM?mode=gi_t",
-      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/Hindi%20Movies%20in%20PH.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/images/Hindi%20Movies%20in%20PH.jpg"
     },
     {
       "name": "Chandra Films: PH",
       "subtext": "Join Community",
       "link": "https://chat.whatsapp.com/KkUIRtKxMlO2BqHTXCMI32?mode=gi_t",
-      "image": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Dhurandhar/CHANDRA%20FILMS%20PHILIPPINES.jpg"
+      "image": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/images/CHANDRA%20FILMS.jpg"
     }
   ],
   "social_links": [
