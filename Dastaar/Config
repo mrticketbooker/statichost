@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "",
-    "subtitle": "Dastaar",
+    "subtitle": "Dastaar   ",
     "description": "1980s Britain: Sikh immigrant Harnek loses loved ones in a racist attack. He channels his grief into strength, rising from newcomer to community leader, showing how one man's turban becomes a symbol of hope for all.",
     "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail.jpg",
     "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
@@ -52,7 +52,7 @@
     }
   ],
   "dates": [
-    { "day": "Sat, July 18 2026", "active": true, "isoDate": "2026-07-18" }
+    { "day": "Metro Manila", "active": true, "isoDate": "2026-07-18" }
   ],
   "screens": [
     {
@@ -65,7 +65,7 @@
       "isHighlight": true,
       "slots": [
         { 
-          "time": "7:45 PM", 
+          "time": "July 18 - 7:45 PM", 
           "status": "Available", 
           "statusColor": "text-green-400", 
           "link": "https://dastaar-philippines-july18.netlify.app/" 
