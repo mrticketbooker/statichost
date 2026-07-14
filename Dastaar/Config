@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "",
-    "subtitle": "Dastaar   ",
+    "title": "Dastaar",
+    "subtitle": "",
     "description": "1980s Britain: Sikh immigrant Harnek loses loved ones in a racist attack. He channels his grief into strength, rising from newcomer to community leader, showing how one man's turban becomes a symbol of hope for all.",
     "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail.jpg",
     "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@main/Dastaar/dastaar%20thumbnail%20.jpg",
@@ -52,23 +52,23 @@
     }
   ],
   "dates": [
-    { "day": "Sat, August 29 2026", "active": true, "isoDate": "2026-08-29" }
+    { "day": "Sat, July 18 2026", "active": true, "isoDate": "2026-07-18" }
   ],
   "screens": [
     {
-      "id": "screen-aug29",
-      "validDates": ["2026-08-29"],
-      "location": "Location TBA",
+      "id": "screen-jul18",
+      "validDates": ["2026-07-18"],
+      "location": "Fisher Mall - Quezon City",
       "badgeColor": "blue",
-      "movieTitle": "Toxic",
-      "movieLang": "Hindi (ENGLISH SUBTITLES)",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
         { 
-          "time": "Time TBA", 
-          "status": "Coming Soon", 
+          "time": "7:45 PM", 
+          "status": "Available", 
           "statusColor": "text-green-400", 
-          "link": "https://toxic-premiere-philippines.netlify.app/"
+          "link": "#" 
         }
       ]
     }
