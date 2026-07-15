@@ -121,7 +121,7 @@
           "time": "July 17 - 7:30 PM",
           "status": "Inquire",
           "statusColor": "text-yellow-400",
-          "link": "https://api.whatsapp.com/send?phone=919876543898&text=%2A%5BOnline%20bookings%20are%20currently%20unavailable%20outside%20Metro%20Manila.%5D%2A%0A%0AHi%2C%20I%E2%80%99m%20interested%20in%20booking%20tickets%20for%20Dastaar%20at%20Sta.%20Lucia%20Mall%20-%20Marikina%20City%20for%20the%207%3A30%20PM%20show%20on%20July%2017."
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D919876543898%26text%3D%252A%255BOnline%2520bookings%2520are%2520currently%2520unavailable%2520outside%2520Metro%2520Manila.%255D%252A%250A%250AHi%252C%2520I%25E2%2580%2599m%2520interested%2520in%2520booking%2520tickets%2520for%2520Dastaar%2520at%2520Sta.%2520Lucia%2520Mall%2520-%2520Marikina%2520City%2520for%2520the%25207%253A30%2520PM%2520show%2520on%2520July%252017.&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
         }
       ]
     },
