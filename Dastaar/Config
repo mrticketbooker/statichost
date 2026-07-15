@@ -84,6 +84,11 @@
       "day": "Outside NCR",
       "active": false,
       "isoDate": "outside-ncr"
+    },
+    {
+      "day": "Vista Cinemas",
+      "active": false,
+      "isoDate": "vista-cinemas"
     }
   ],
   "screens": [
@@ -160,6 +165,139 @@
           "status": "Inquire",
           "statusColor": "text-yellow-400",
           "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D639267520449%26text%3D%252A%255BOnline%2520bookings%2520are%2520currently%2520unavailable%2520outside%2520Metro%2520Manila.%255D%252A%250A%250AHi%252C%2520I%25E2%2580%2599m%2520interested%2520in%2520booking%2520tickets%2520for%2520Dastaar%2520at%2520GMALL%2520-%2520BAJADA%2520-%2520Davao%2520City%2520for%2520the%25207%253A30%2520PM%2520show%2520on%2520July%252018.&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-evia",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Evia Lifestyle Center - Las Piñas, NCR",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-taguig",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall Taguig - Taguig, NCR",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-starosa",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall Sta Rosa - Santa Rosa, Laguna",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-pampanga",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall Pampanga - San Fernando, Pampanga",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-malolos",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall Malolos - Malolos, Bulacan",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-bataan",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall Bataan - Balanga, Bataan",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
+        }
+      ]
+    },
+    {
+      "id": "screen-vista-gentrias",
+      "validDates": [
+        "vista-cinemas"
+      ],
+      "location": "Vista Mall General Trias - General Trias, Cavite",
+      "badgeColor": "yellow",
+      "movieTitle": "Dastaar",
+      "movieLang": "Punjabi (ENGLISH SUBTITLES)",
+      "isHighlight": true,
+      "slots": [
+        {
+          "time": "July 17 - 23 - 6:30 PM",
+          "status": "Available",
+          "statusColor": "text-green-400",
+          "link": "https://link-tracker-generator.netlify.app/?to=https%3A%2F%2Fwww.vistacinemas.com.ph%2FMovie%2FBook%2Fdastaar&script=https%3A%2F%2Fscript.google.com%2Fmacros%2Fs%2FAKfycbygcJTetdilaFtkX3EFWmtIwmOc-k3PfoDa3SJdFGXpnJkQ8YaJjMbg8KQoXKDINAIH%2Fexec"
         }
       ]
     }
