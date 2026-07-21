@@ -58,15 +58,15 @@
     {
       "id": "screen-aug29",
       "validDates": ["2026-08-29"],
-      "location": "Location TBA",
+      "location": "CIRCUIT Cinema 3",
       "badgeColor": "blue",
       "movieTitle": "Toxic",
       "movieLang": "Hindi (ENGLISH SUBTITLES)",
       "isHighlight": true,
       "slots": [
         { 
-          "time": "Time TBA", 
-          "status": "Coming Soon", 
+          "time": "9:00 PM", 
+          "status": "Available", 
           "statusColor": "text-green-400", 
           "link": "https://toxic-premiere-philippines.netlify.app/"
         }
