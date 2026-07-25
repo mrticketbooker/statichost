@@ -3,8 +3,8 @@
     "title": "",
     "subtitle": "Toxic   ",
     "description": "A Fairy Tale for Grown-Ups",
-    "posterImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
-    "seoImage": "https://raw.githubusercontent.com/mrticketbooker/statichost/refs/heads/main/Toxic/toxic-poster.webp",
+    "posterImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@refs/heads/main/Toxic/toxic-poster.webp",
+    "seoImage": "https://cdn.jsdelivr.net/gh/mrticketbooker/statichost@refs/heads/main/Toxic/toxic-poster.webp",
     "trailer": "https://youtu.be/cXymbHU5i-U?si=FOHCi5GTymZccPPE",
     "runtimeMinutes": 200,
     "tags": [
